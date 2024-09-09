@@ -16,7 +16,6 @@ This project implements a dynamic multi-level caching system using Node.js. The 
 
 ## Project Structure
 
-```plaintext
 - cache/
   - CacheLevel.js        # Class representing individual cache level
   - MultiLevelCache.js    # Main cache system class managing multiple levels
