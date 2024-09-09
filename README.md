@@ -32,7 +32,7 @@ Clone the repository:
 
 Navigate to the project directory:
 
-    cd multi-level-cache-system
+    cd cache-system
 
 Install dependencies:
 
