@@ -28,22 +28,18 @@ This project implements a dynamic multi-level caching system using Node.js. The 
 
 Clone the repository:
 
-    ```bash
     git clone https://github.com/codder077/cache_system.git
 
 Navigate to the project directory:
 
-    ```bash
     cd multi-level-cache-system
 
 Install dependencies:
 
-    ```bash 
     npm install
 
 Run the server:
 
-    ```bash
     node server.js
 
 The server will be running at http://localhost:3000.
